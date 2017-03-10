@@ -1,0 +1,6 @@
+[package]
+name = "writegam"
+version = "0.1.0"
+authors = ["Mark Schifflin <randy.schifflin@gmail.com>"]
+
+[dependencies]
